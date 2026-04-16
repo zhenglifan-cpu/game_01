@@ -1,0 +1,110 @@
+{
+  "campfire1": {
+    "left": 0.013,
+    "top": 0.145,
+    "right": 0.83,
+    "bottom": 0.941
+  },
+  "campfire2": {
+    "left": 0.013,
+    "top": 0.152,
+    "right": 0.838,
+    "bottom": 0.992
+  },
+  "campfire3": {
+    "left": 0.009,
+    "top": 0.008,
+    "right": 0.856,
+    "bottom": 0.875
+  },
+  "fence_gate": {
+    "left": 0.013,
+    "top": 0.074,
+    "right": 1.0,
+    "bottom": 0.992
+  },
+  "fence_open": {
+    "left": 0.013,
+    "top": 0.008,
+    "right": 1.0,
+    "bottom": 0.863
+  },
+  "fence_tall": {
+    "left": 0.013,
+    "top": 0.223,
+    "right": 1.0,
+    "bottom": 0.941
+  },
+  "logs_big": {
+    "left": 0.009,
+    "top": 0.008,
+    "right": 0.996,
+    "bottom": 0.777
+  },
+  "logs_small": {
+    "left": 0.009,
+    "top": 0.172,
+    "right": 0.996,
+    "bottom": 0.992
+  },
+  "path_left": {
+    "left": 0.013,
+    "top": 0.004,
+    "right": 1.0,
+    "bottom": 1.0
+  },
+  "path_mid": {
+    "left": 0.013,
+    "top": 0.0,
+    "right": 1.0,
+    "bottom": 0.996
+  },
+  "path_right": {
+    "left": 0.013,
+    "top": 0.125,
+    "right": 1.0,
+    "bottom": 1.0
+  },
+  "pine1": {
+    "left": 0.013,
+    "top": 0.125,
+    "right": 0.996,
+    "bottom": 0.992
+  },
+  "pine2": {
+    "left": 0.013,
+    "top": 0.008,
+    "right": 0.996,
+    "bottom": 0.891
+  },
+  "rock_single": {
+    "left": 0.013,
+    "top": 0.008,
+    "right": 1.0,
+    "bottom": 0.758
+  },
+  "rocks_big": {
+    "left": 0.013,
+    "top": 0.203,
+    "right": 1.0,
+    "bottom": 0.941
+  },
+  "rocks_small": {
+    "left": 0.013,
+    "top": 0.137,
+    "right": 1.0,
+    "bottom": 0.992
+  },
+  "stump": {
+    "left": 0.009,
+    "top": 0.152,
+    "right": 0.996,
+    "bottom": 0.941
+  },
+  "tree_round": {
+    "left": 0.013,
+    "top": 0.109,
+    "right": 0.996,
+    "bottom": 0.941
+  }
+}

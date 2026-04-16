@@ -1,0 +1,27 @@
+# 构建产物
+.build/
+dist/
+
+# 引擎内部资源（只读，非用户代码）
+engine-docs/
+examples/
+templates/
+urhox-libs/
+lua-tools/
+schemas/
+
+# AI/编辑器配置
+.claude/
+.cli/
+.emmylua/
+.agent/
+.tmp/
+
+# 日志
+logs/
+
+# meta 文件（引擎自动生成）
+*.meta
+
+# 其他
+tile-image-assets.skill
